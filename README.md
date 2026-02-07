@@ -1,3 +1,13 @@
+## 📌 Project Status
+🔵 **Planned / Paused (Academic Priority)**
+
+This project was initiated as part of my Semester 5 curriculum.
+Due to Semester 6 written exams, practical exams, and final project submission,
+active development is currently paused.
+
+The project is planned to be revisited or extended after academic commitments are completed.
+> Note: Academic responsibilities are currently prioritized over development.
+
 # Digital Notice Board Management System
 
 A web-based Digital Notice Board Management System designed to display and manage notices electronically.  
@@ -10,8 +20,8 @@ This project focuses on frontend design and user flow, suitable for academic and
 Traditional notice boards require manual updates and physical presence.  
 This system provides a digital alternative where notices can be added, managed, and viewed online.
 
-The current version demonstrates the **UI structure and system workflow**.  
-Backend integration can be extended in future versions.
+The current version outlines the **intended UI structure and system workflow**.
+Backend integration and full functionality can be extended in future versions.
 
 ---
 
